@@ -33,7 +33,7 @@
     "end-of-stream": "^1.0.0",
     "hat": "0.0.3",
     "inherits": "^2.0.1",
-    "inquirer": "^0.8.0",
+    "inquirer": "^3.2.0",
     "load-ip-set": "^1.0.3",
     "mime": "^1.2.11",
     "minimist": "^1.1.0",
